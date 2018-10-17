@@ -7,12 +7,10 @@ package Asistensi6;
 
 import static java.lang.Thread.sleep;
 import java.util.ArrayList;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
- * @author alfari
+ * @author tegar
  */
 public class RumahSakit {
 

@@ -52,7 +52,7 @@ class NextClient extends Thread {
         try {
             OutputStream os = nextClient.getOutputStream();
             PrintStream ps = new PrintStream(os);
-            ps.println("Ahlan wa sahlan! Anda pengunjung ke-"+currentUser);
+            ps.println("Selamat datang! Anda pengunjung ke-"+currentUser);
 
             ps.flush();
             ps.close();

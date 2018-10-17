@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author riza
+ * @author tegar
  */
 public class FileHelper {
     
